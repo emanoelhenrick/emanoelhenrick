@@ -55,7 +55,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/emanoelhenrick/emanoelhenrick/blob/output/snake.svg" alt="Snake animation" />
-
-###
+Profile Readme Generator
