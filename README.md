@@ -14,6 +14,7 @@ A Frontend web developer from Brazil.
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
