@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Full Stack web developer from Brazil.
+A Frontend web developer from Brazil.
 
 
 ## 🌐 Socials:
