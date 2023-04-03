@@ -1,6 +1,6 @@
 ## 👋 Welcome! 
 
-<img src="an3.png" height="357px" alt="stats graph" align="right" />
+<img src="an3.png" height="359px" alt="stats graph" align="right" />
 
 ```javascript
 const manel: PersonalInfo = {
