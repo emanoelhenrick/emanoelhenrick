@@ -20,7 +20,7 @@ const manel: PersonalInfo = {
       course: 'Systems development',
       date: '2018/2020'
     }
-  ],
+  ]
 }
 
 res.status(201).json(manel);
