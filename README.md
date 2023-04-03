@@ -2,7 +2,7 @@
 
 <img src="an3.png" height="357px" alt="stats graph" align="right" />
 
-```typescript
+```javascript
 const manel: PersonalInfo = {
   name: 'Emanoel Henrick',
   age: 21,
