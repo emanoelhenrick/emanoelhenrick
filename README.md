@@ -15,7 +15,7 @@ const manel: PersonalInfo = {
     },
     {
       institution: 'ETEMFL',
-      course: 'Systems development',
+      course: 'Systems Development',
       date: '2018/2020'
     }
   ]
