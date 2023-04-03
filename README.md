@@ -21,7 +21,7 @@ const manel: PersonalInfo = {
   ]
 }
 
-res.status(201).json(manel);
+res.status(201).json(manel)
 ```
 
 <div align="center">
