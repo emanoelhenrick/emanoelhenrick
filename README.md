@@ -1,5 +1,6 @@
 ## 📊 GitHub Stats:
 
+<img src="anime.gif" height="407px" alt="stats graph" align="right" style="margin-left: 20px;"/>
 
 ```typescript
 const manel: PersonalInfo = {
