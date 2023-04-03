@@ -1,6 +1,6 @@
 ## 📊 GitHub Stats:
 
-<img src="an2.jpg" height="357px" alt="stats graph" align="right" style="margin-left:200px;"/>
+<img src="an2.jpg" height="357px" alt="stats graph" align="right" />
 
 ```typescript
 const manel: PersonalInfo = {
@@ -23,7 +23,6 @@ const manel: PersonalInfo = {
 
 res.status(201).json(manel);
 ```
-</br> </br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&username=emanoelhenrick" height="150" alt="stats graph"/>
