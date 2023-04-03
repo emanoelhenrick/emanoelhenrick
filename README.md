@@ -1,6 +1,6 @@
 ## 📊 GitHub Stats:
 
-<img src="an2.jpg" height="355px" alt="stats graph" align="right" style="margin-left:200px;"/>
+<img src="an2.jpg" height="357px" alt="stats graph" align="right" style="margin-left:200px;"/>
 
 ```typescript
 const manel: PersonalInfo = {
