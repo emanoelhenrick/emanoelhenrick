@@ -24,12 +24,7 @@ const manel: PersonalInfo = {
 res.status(201).json(manel)
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=true&border_radius=10&username=emanoelhenrick" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=370&langs_count=6&theme=aura_dark&hide_border=true&border_radius=10&username=emanoelhenrick" height="150" alt="languages graph" />
-</div>
-
-## Skills
+## 💻 Skills
 ![Java](https://img.shields.io/badge/Java-B20000?style=flat&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -40,3 +35,8 @@ res.status(201).json(manel)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB0)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=true&border_radius=10&username=emanoelhenrick" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=370&langs_count=6&theme=aura_dark&hide_border=true&border_radius=10&username=emanoelhenrick" height="150" alt="languages graph" />
+</div>
