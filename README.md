@@ -1,6 +1,6 @@
 ## // welcome! 
 
-<img src="an3.png" height="359px" alt="stats graph" align="right" />
+<img src="b6b3cfd9fe3d2b6dbf6bdabbd8fbddbf.jpg" height="359px" alt="chill" align="right" />
 
 ```javascript
 const manel: PersonalInfo = {
