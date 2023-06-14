@@ -38,6 +38,6 @@ res.status(201).json(manel)
 
 
 <div align="center">
-  <img src="https://emhk.vercel.app/api/stats?type=stats" height="150" alt="stats graph"/>
-  <img src="https://emhk.vercel.app/api/stats?type=top-langs" height="150" alt="languages graph" /> 
+  <img src="https://emhk.vercel.app/api/stats?type=rd-stats" height="150" alt="stats graph"/>
+  <img src="https://emhk.vercel.app/api/stats?type=rd-top-langs" height="150" alt="languages graph" /> 
 </div>
