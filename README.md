@@ -5,7 +5,7 @@
 ```javascript
 const manel: PersonalInfo = {
   name: 'Emanoel Henrick',
-  age: 21,
+  age: 22,
   nationality: 'Brazilian',
   education: [
     {
