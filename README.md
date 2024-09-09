@@ -1,4 +1,4 @@
-## // hello, friend 
+## // hello friend 
 <div align="center">
   <img src="https://emhk-gh-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=emhk&locale=en&hide_border=true&border_radius=10&username=emanoelhenrick" height="150" alt="stats graph"/>
   <img src="https://emhk-gh-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=370&langs_count=6&theme=emhk&hide_border=true&border_radius=10&username=emanoelhenrick" height="150" alt="languages graph" /> 
