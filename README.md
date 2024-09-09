@@ -1,29 +1,4 @@
-## // welcome! 
-
-<img src="b6b3cfd9fe3d2b6dbf6bdabbd8fbddbf.jpg" height="359px" alt="chill" align="right" />
-
-```javascript
-const manel: PersonalInfo = {
-  name: 'Emanoel Henrick',
-  age: 22,
-  nationality: 'Brazilian',
-  education: [
-    {
-      institution: 'UFRPE',
-      course: 'Computer Science',
-      date: '2023/in progress'
-    },
-    {
-      institution: 'ETEMFL',
-      course: 'Systems Development',
-      date: '2018/2020'
-    }
-  ]
-}
-
-res.status(201).json(manel)
-```
-
+## // hello, friend 
 <div align="center">
   <img src="https://emhk-gh-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=emhk&locale=en&hide_border=true&border_radius=10&username=emanoelhenrick" height="150" alt="stats graph"/>
   <img src="https://emhk-gh-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=370&langs_count=6&theme=emhk&hide_border=true&border_radius=10&username=emanoelhenrick" height="150" alt="languages graph" /> 
